@@ -1,4 +1,4 @@
-# .NET-Developer
+# Hiring for .NET-Developer, 7+ Years, Remote work, working hours 3pm - 12 pm 
 Looking for .NET developer with Entity Framework and LINQ experience with 7 or 7+ years of experience.
 Location: Remote
 
